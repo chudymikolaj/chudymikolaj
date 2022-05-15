@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chudymikolaj
 - 👀 I’m interested in Space, Crypto, Front-End
 - 🌱 I’m currently learning blockchain and mastering React
-- 💞️ I’m looking to collaborate on blockchain house
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me linkedin or email ( my side is in progress )
 
 and job, job, job, job, job :)
